@@ -31,15 +31,15 @@
 
 ## Bot one
 
-<a href="https://heroku.com/deploy?template=https://github.com/IBRAHIM-TECH-AI/Guru"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/guru"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ## Bot two
 
-<a href="https://heroku.com/deploy?template=https://github.com/ibrahimaitech/guru/tree/main"><img title="BOTGURU-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/IBRAHIM-TECH-AI/Guru"><img title="BOTGURU-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
  ## Support
 
-SUPPORT GROUP: <a href="https://t.me/botgurumd"><img alt="Telegram" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT GROUP: <a href="https://t.me/botgurumd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo For Amazing Commands**
