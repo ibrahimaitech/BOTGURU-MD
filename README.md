@@ -21,7 +21,7 @@
 
 #### Session ID
 
-<a href="https://guru-app-08385ed6535e.herokuapp.com/"><img title="BOTGURU-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://guru-scanner-d3288a1b8c34.herokuapp.com/"><img title="BOTGURU-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ## BOTGURU-MD Deploy Method
 
